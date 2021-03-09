@@ -1,4 +1,7 @@
 # ex_animation_clock
+![Screenshot](Screenshot_1615311227.png)
+
+
 
 A new Flutter project.
 
